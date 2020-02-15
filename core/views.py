@@ -5,6 +5,7 @@ from django.core.mail import send_mail
 from django.conf import settings
 from django.template.loader import render_to_string
 
+
 class HomeTemplateView(TemplateView):
     template_name = 'home.html'
 
