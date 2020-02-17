@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="45a14596-aeda-4f25-ae59-171be140cf1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/clients/cvcreator.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/clients/winemorebeer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +126,7 @@
       <workItem from="1581770335684" duration="4708000" />
       <workItem from="1581776023422" duration="448000" />
       <workItem from="1581784189640" duration="2564000" />
-      <workItem from="1581936752491" duration="501000" />
+      <workItem from="1581936752491" duration="1469000" />
     </task>
     <servers />
   </component>
