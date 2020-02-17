@@ -6,7 +6,7 @@ class About(models.Model):
     short_description = models.TextField()
     description = models.TextField()
     image = models.ImageField(upload_to="about", default="default.png")
-    cv = models.ImageField(upload_to="about", default="default.png")
+    cv = models.ImageField(upload_to="about", default="test.png")
 
     class Meta:
         verbose_name = "About me"
